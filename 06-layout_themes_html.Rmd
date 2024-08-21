@@ -427,6 +427,44 @@ an open SO page.
 
 ### Cohort 3
 
+`r knitr::include_url("https://www.youtube.com/embed/gpj2Uw8imtA")`
+
+<details>
+  <summary>Meeting chat log</summary>
+```
+00:17:24	Njoki Njuki Lucy:	Current deployed slide deck: https://r4ds.github.io/bookclub-mshiny/layout-themes-html.html
+00:36:58	Njoki Njuki Lucy:	https://revealjs.com/
+01:04:33	Njoki Njuki Lucy:	what is the function cat() doing?
+01:10:53	Federica Gazzelloni:	cat {base}: Concatenate and Print
+01:11:12	Njoki Njuki Lucy:	Great, thanks! :)
+01:11:34	Federica Gazzelloni:	It outputs the objects, concatenating the representations.
+01:13:06	Brendan Lam:	I'm also good either way
+```
+</details>
+
+`r knitr::include_url("https://www.youtube.com/embed/EDcW3IwtBQc")`
+
+
+### Cohort 4
+
+`r knitr::include_url("https://www.youtube.com/embed/LAm7k2qGvbo")`
+
+<details>
+  <summary>Meeting chat log</summary>
+```
+00:11:49	Lydia Gibson:	I'm having issues with zoom. I'll have to join from my laptop
+00:13:15	LUCIO ENRIQUE CORNEJO RAMÍREZ:	do i start now?
+00:42:25	Trevin Flickinger:	Here for more about the customizer: https://rstudio.github.io/bslib/articles/bslib.html#real-time
+00:42:42	Lydia Gibson:	Thank you!
+01:03:16	Trevin Flickinger:	Yes, thank you!
+01:03:22	LUCIO ENRIQUE CORNEJO RAMÍREZ:	thank you
+01:03:58	LUCIO ENRIQUE CORNEJO RAMÍREZ:	bye, thanks
+```
+</details>
+
+
+### Cohort 5
+
 `r knitr::include_url("https://www.youtube.com/embed/URL")`
 
 <details>

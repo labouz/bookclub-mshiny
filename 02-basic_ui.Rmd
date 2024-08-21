@@ -1,8 +1,6 @@
-# Shiny - Basic User Interface
+# Basic UI
 
-## Learning objectives
-
-#### The Shiny *User Interface* consists of 3 components  {-} 
+**The Shiny *User Interface* consists of 3 components**
 
 1. **Inputs**   
     + Text, Numeric variables, Dates, Radio buttons/Check boxes, File uploads, Buttons  
@@ -22,13 +20,13 @@
     - [https://github.com/hadley/mastering-shiny](https://github.com/hadley/mastering-shiny)  
     - By using Github, *YOU* can contribute too.    
 
-3. R4DS book club Github-repo:
+3. DSLC book club Github-repo:
     - [https://github.com/r4ds/bookclub-mshiny](https://github.com/r4ds/bookclub-mshiny)
 
 4. Shiny Cheat Sheet    
     - [https://shiny.rstudio.com/articles/cheatsheet.html](https://shiny.rstudio.com/articles/cheatsheet.html)
 
-## The Shiny Basic User Interface(ui)
+## The Shiny Basic User Interface (ui)
 
 - Recall, the simplest *Shiny* application has 2 components, **ui & server**
 
@@ -349,3 +347,28 @@ Chapter 3: *Basic UI* introduces the 3 components of user interface for Shiny
 01:09:37	Njoki Njuki Lucy:	I had the same question 😄
 ```
 </details>
+
+
+### Cohort 4
+
+`r knitr::include_url("https://www.youtube.com/embed/hBYkhLT9xfo")`
+
+<details>
+  <summary>Meeting chat log</summary>
+```
+00:04:27	Lydia:	Hello
+00:43:01	Trevin:	https://glin.github.io/reactable/index.html
+00:54:52	Lydia Gibson:	Not at the moment. Thank you Trevin
+00:54:57	Lucio:	No questions. Great talk
+00:55:32	Lydia Gibson:	I wont be able to for the next 3 weeks or so
+00:55:40	Lydia Gibson:	Finishing up my fall semester
+00:56:14	Trevin:	I can do 4 or 5
+00:57:23	Lydia Gibson:	Thanks everyone
+00:57:33	Lucio:	thanks, bye
+```
+</details>
+
+
+### Cohort 5
+
+`r knitr::include_url("https://www.youtube.com/embed/4WD-6mC8vnk")`
